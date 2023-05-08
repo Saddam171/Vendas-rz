@@ -1,0 +1,24 @@
+{
+    "pedidostotal": 4,
+    "gastostotal": 45,
+    "02/04/2023": {
+        "pedidos": 2,
+        "recebimentos": 30
+    },
+    "863918762134470706": {
+        "gastosaprovados": 15,
+        "pedidosaprovados": 1
+    },
+    "1020074723402580068": {
+        "gastosaprovados": 15,
+        "pedidosaprovados": 1
+    },
+    "16/04/2023": {
+        "pedidos": 2,
+        "recebimentos": 15
+    },
+    "1055642116254081106": {
+        "gastosaprovados": 15,
+        "pedidosaprovados": 2
+    }
+}

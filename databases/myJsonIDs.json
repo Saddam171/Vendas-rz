@@ -1,0 +1,42 @@
+{
+    "580062449045090": {
+        "id": "580062449045090",
+        "status": "Concluido",
+        "userid": "863918762134470706",
+        "dataid": "domingo, 2 de abril de 2023 às 16:14",
+        "nomeid": "Source Ticket",
+        "qtdid": "1",
+        "precoid": "15.00",
+        "entrid": "Abre ticket"
+    },
+    "548423521574253": {
+        "id": "548423521574253",
+        "status": "Concluido",
+        "userid": "1020074723402580068",
+        "dataid": "domingo, 2 de abril de 2023 às 21:18",
+        "nomeid": "Source Formulario",
+        "qtdid": "1",
+        "precoid": "15.00",
+        "entrid": "Abre ticket"
+    },
+    "490105445774679": {
+        "id": "490105445774679",
+        "status": "Concluido",
+        "userid": "1055642116254081106",
+        "dataid": "domingo, 16 de abril de 2023 às 01:23",
+        "nomeid": "Vendas Automaticas",
+        "qtdid": "1",
+        "precoid": "10.00",
+        "entrid": "Abre ticket"
+    },
+    "683412703999763": {
+        "id": "683412703999763",
+        "status": "Concluido",
+        "userid": "1055642116254081106",
+        "dataid": "domingo, 16 de abril de 2023 às 01:24",
+        "nomeid": "5.00",
+        "qtdid": "1",
+        "precoid": "5.00",
+        "entrid": "1"
+    }
+}
